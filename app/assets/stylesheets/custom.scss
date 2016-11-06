@@ -9,8 +9,18 @@ $gray-medium-light: #eaeaea;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+
 }
 
+/* music */
+.music_iframe{
+  width: 0;
+  height: 0;
+  frameborder: 0;
+  border: 0; 
+  marginwidth: 0; 
+  marginheight: 0; 
+}
 /* forms */
 
 input, textarea, select, .uneditable-input {
