@@ -41,3 +41,9 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
+
+>尝试性插入音乐，使用网易云音乐给的HTML代码，但是本地可以用，Heroku上就不行
+
+````
+<iframe class="music_iframe"  src="http://music.163.com/outchain/player?type=2&id=27534035&auto=1&height=66"></iframe>
+````
